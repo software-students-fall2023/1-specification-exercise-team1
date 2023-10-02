@@ -36,15 +36,14 @@ We aim to empower NYU students with real-time insights into campus study areas, 
 
 Use Case 2: As a user, I want to be able to search for a specific study area so that I can check the statuses of any study area  
 
-<img width="769" alt="Screenshot 2023-10-01 at 5 48 35 PM" src="https://github.com/software-students-fall2023/1-specification-exercise-team1/assets/117370617/b26956a3-b6f2-4590-9927-de0f90c09445">  
+<img width="827" alt="Screenshot 2023-10-01 at 5 47 20 PM" src="https://github.com/software-students-fall2023/1-specification-exercise-team1/assets/117370617/261550ec-cbf5-4b79-9374-d3d38fdae42d">
 
   
 
   
 Use Case 4: As a user, I want to be able to update the status of study areas on campus, so I can let other users know the statuses of study areas on campus  
 
-<img width="827" alt="Screenshot 2023-10-01 at 5 47 20 PM" src="https://github.com/software-students-fall2023/1-specification-exercise-team1/assets/117370617/261550ec-cbf5-4b79-9374-d3d38fdae42d">
-
+<img width="769" alt="Screenshot 2023-10-01 at 5 48 35 PM" src="https://github.com/software-students-fall2023/1-specification-exercise-team1/assets/117370617/b26956a3-b6f2-4590-9927-de0f90c09445">  
 
 ## Clickable Prototype
 
