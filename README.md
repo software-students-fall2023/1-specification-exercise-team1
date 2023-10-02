@@ -44,6 +44,25 @@ Use Case 4: As a student, I want to be able to update the status of study areas 
 
 <img width="769" alt="Screenshot 2023-10-01 at 5 48 35 PM" src="https://github.com/software-students-fall2023/1-specification-exercise-team1/assets/117370617/b26956a3-b6f2-4590-9927-de0f90c09445">  
 
+## Wireframes
+
+![](</wireframes/Login.png>)
+![](</wireframes/Forgot Password.png>)
+![](</wireframes/Forgot Password 2.png>)
+![](</wireframes/Create Account.png>)
+![](</wireframes/Create Account2.png>)
+![](</wireframes/Home.png>)
+![](</wireframes/Menu.png>)
+![](</wireframes/Location.png>)
+![](</wireframes/Search.png>)
+![](</wireframes/Status Update (popup).png>)
+![](</wireframes/Notify me (popup).png>)
+![](</wireframes/Settings.png>)
+![](</wireframes/Edit Information.png>)
+![](</wireframes/Contact Us.png>)
+![](</wireframes/Add Tracker (popup).png>)
+
+
 ## Clickable Prototype
 
 [Prototype](https://www.figma.com/proto/V7Vfa2Ipmmo9JG7lMDxmN6/Wireframe?type=design&node-id=10-21&t=jUjUXAgbAY9lGdHo-1&scaling=scale-down&page-id=0%3A1&mode=design)
