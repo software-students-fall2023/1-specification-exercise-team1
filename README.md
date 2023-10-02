@@ -46,4 +46,4 @@ Use Case 4: As a student, I want to be able to update the status of study areas 
 
 ## Clickable Prototype
 
-https://www.figma.com/file/V7Vfa2Ipmmo9JG7lMDxmN6/Wireframe?type=design&node-id=0%3A1&mode=design&t=N0lurRMdZL6PLNqC-1 
+[Prototype](https://www.figma.com/proto/V7Vfa2Ipmmo9JG7lMDxmN6/Wireframe?type=design&node-id=10-21&t=jUjUXAgbAY9lGdHo-1&scaling=scale-down&page-id=0%3A1&mode=design)
